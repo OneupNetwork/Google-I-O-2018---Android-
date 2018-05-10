@@ -6,7 +6,8 @@ Google I/O Android 部分整理
 1. JETPACK : 一連串針對Android 開發，架構及介面上的強化功能 library 及元件，包含 
 
 * KTX：提供幾個 Kotlin 開發上方便使用的 library ，library 中能讓程式開發上省略掉很多不必要的 boilerplate的方法，例如資料庫的 transaction，原本需要寫一些固定的code來開始 transaction 及結束，這邊 KTX就有提供簡化這個流程的方法
-      ![](https://i.imgur.com/5DKHGXB.png)
+
+    ![](https://i.imgur.com/5DKHGXB.png)
       
      或是像下面這個簡單能處理 span 的方法也是 KTX 中提供的功能
       ![](https://i.imgur.com/zw5xZKg.png)
